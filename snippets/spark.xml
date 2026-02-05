@@ -47,7 +47,7 @@
   <project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy-legacy-um" remote="spark" />
 
   <!-- Hardware repos -->
-  <project path="hardware/xiaomi" name="hardware_xiaomi" remote="spark" />
+  <project path="hardware/oplus" name="android_hardware_oplus" remote="spark-oppo" />
 
   <!-- External repos -->
   <project path="external/hosts" name="StevenBlack/hosts" remote="github" revision="master" />
