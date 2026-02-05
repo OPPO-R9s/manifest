@@ -9,7 +9,7 @@
           revision="refs/heads/pyro-next"/>
 
   <remote name="spark-oppo"
-          fetch="https://github.com/Spark-Rom"
+          fetch="https://github.com/Spark-OPPO"
           revision="refs/heads/pyro-next"/>
 
   <remote  name="evo"
