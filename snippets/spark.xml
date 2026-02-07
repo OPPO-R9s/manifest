@@ -46,6 +46,14 @@
   <project path="device/qcom/sepolicy_vndr-legacy-um" name="device_qcom_sepolicy_vndr-legacy-um" remote="spark" />
   <project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy-legacy-um" remote="spark" />
 
+  <!-- Device repos - OPPO Thortanium -->
+  <project path="device/oppo/A57" name="android_device_oppo_A57" remote="spark-oppo" />
+  <project path="device/oppo/R9s" name="android_device_oppo_R9s" remote="spark-oppo" />
+  <project path="device/oppo/R9sPlus" name="android_device_oppo_R9sPlus" remote="spark-oppo" />
+  <project path="device/oppo/thortanium-common" name="android_device_oppo_thortanium-common" remote="spark-oppo" />
+  <project path="kernel/oppo/msm8937" name="android_kernel_oppo_msm8937" remote="spark-oppo" revision="lineage-20" />
+  <project path="vendor/oppo" name="proprietary_vendor_oppo" remote="spark-oppo" revision="lineage-20" />
+
   <!-- Hardware repos -->
   <project path="hardware/oplus" name="android_hardware_oplus" remote="spark-oppo" />
   <project path="hardware/qcom-caf/wlan" name="android_hardware_qcom_wlan" groups="qcom,waipio-vendor" remote="spark-oppo" />
