@@ -57,6 +57,7 @@
   <!-- Hardware repos -->
   <project path="hardware/oplus" name="android_hardware_oplus" remote="spark-oppo" />
   <project path="hardware/qcom-caf/wlan" name="android_hardware_qcom_wlan" groups="qcom,waipio-vendor" remote="spark-oppo" />
+  <project path="hardware/lineage/interfaces" name="android_hardware_lineage_interfaces" remote="spark-oppo" />
 
   <!-- External repos -->
   <project path="external/hosts" name="StevenBlack/hosts" remote="github" revision="master" />
